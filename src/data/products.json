@@ -1,0 +1,236 @@
+{
+  "products": [
+    {
+      "title": "iPhone 13 128GB | Chính hãng VN/A",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-11-128gb.png",
+      "category": "IPhone",
+      "price": 13490000,
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng.",
+      "id": "2024-05-07T19:58:06.221Z"
+    },
+    {
+      "title": "iPhone 14 Pro Max 128GB | Chính hãng VN/A 1",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-14-pro_2__5.png",
+      "category": "IPhone",
+      "price": 26690000,
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng",
+      "id": "2024-05-07T19:58:07.221Z"
+    },
+    {
+      "id": "2024-05-07T19:58:08.221Z",
+      "title": "iPhone 11 64GB | Chính hãng VN/A ",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-11.png",
+      "price": 26690000,
+      "category": "IPhone",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:09.221Z",
+      "title": "Samsung Galaxy S23 8GB 128GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23_1.png",
+      "price": 13290000,
+      "category": "Samsung",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:10.221Z",
+      "title": "Samsung Galaxy A55 5G 8GB 128GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-a556_galaxy_a55_awesome_lilac_ui.png",
+      "price": 9660000,
+      "category": "Samsung",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:11.221Z",
+      "title": "Samsung Galaxy A54 5G 8GB 128GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a54.png",
+      "price": 7790000,
+      "category": "Samsung",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:12.221Z",
+      "title": "OPPO Reno11 F 5G 8GB 256GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-oppo-reno-11-f-2.png",
+      "price": 8490000,
+      "category": "OPPO",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:13.221Z",
+      "title": "OPPO Reno7 5G (8GB 256GB)",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/o/p/oppo-reno-7_1.png",
+      "price": 7590000,
+      "category": "OPPO",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:14.221Z",
+      "title": "Vivo V27e 8GB 256GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/i/vivo-v27e.png",
+      "price": 7990000,
+      "category": "Vivo",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:15.221Z",
+      "title": "Realme C67 (8GB 128GB)",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/r/e/realme-c67-1_1.png",
+      "price": 4990000,
+      "category": "Realme",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:16.221Z",
+      "title": "Realme C55 8GB 256GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/r/g/rgrgrtyt6_1.jpg",
+      "price": 6590000,
+      "category": "Realme",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-07T19:58:17.221Z",
+      "title": "Nokia C32 4GB 128GB",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c32_1_2.png",
+      "price": 3290000,
+      "category": "Nokia",
+      "description": "Không phí chuyển đổi khi trả góp 0% qua thẻ tín dụng kỳ hạn 3-6 tháng"
+    },
+    {
+      "id": "2024-05-09T18:46:51.570Z",
+      "title": "Laptop Gaming Acer Nitro V ANV15-51-72VS NH.QNASV.004",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop-gaming-acer-nitro-v-anv15-51-72vs.jpg",
+      "category": "Laptop Acer",
+      "price": 21990000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:49:58.110Z",
+      "title": "Laptop ASUS TUF Gaming F15 FX506HF-HN078W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_13__5_14.png",
+      "category": "Laptop ASUS",
+      "price": 17290000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:51:27.600Z",
+      "title": "Laptop ASUS Gaming ROG Zephyrus G14 GA402NJ-L4056W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_d_i_1_5.png",
+      "category": "Laptop ASUS",
+      "price": 30490000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:52:09.942Z",
+      "title": "Laptop Asus ROG Zephyrus M16 GU604VI-NM779W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_10__2_62.png",
+      "category": "Laptop ASUS",
+      "price": 67890000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:52:48.271Z",
+      "title": "Laptop ASUS VivoBook 15 X1504VA-NJ070W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_99__2.png",
+      "category": "Laptop ASUS",
+      "price": 15490000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:54:02.334Z",
+      "title": "Laptop ASUS TUF Gaming A15 FA507NV-LP046W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_d_i_1__13.png",
+      "category": "Laptop ASUS",
+      "price": 25490000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:55:03.525Z",
+      "title": "Laptop Lenovo Yoga Duet 7 13ITL6 82MA009NVN ",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/gaming_003_3__3.png",
+      "category": "Laptop Lenovo",
+      "price": 18990000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:55:52.444Z",
+      "title": "Laptop Lenovo Legion 7 16IRX9 83FD004MVN",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_-_2024-04-21t212602.104.png",
+      "category": "Laptop Lenovo",
+      "price": 64990000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:56:42.738Z",
+      "title": "Apple MacBook Pro 13 M2 2022 8GB 512GB I Chính hãng Apple Việt Nam",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/macbook13.png",
+      "category": "Laptop Macbook",
+      "price": 33690000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "id": "2024-05-09T18:57:24.973Z",
+      "title": "Macbook Pro 16 inch M1 Max 10 CPU - 32 GPU 32GB 1TB 2021 | Chính hãng Apple Việt Nam",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/c/l/cl.png",
+      "category": "Laptop Macbook",
+      "price": 52990000,
+      "description": "Tặng Bàn phím cơ có dây Dareu EK87 TKL và cái lồn thơm tho"
+    },
+    {
+      "title": "Ốp lưng iPhone 13 Pro OU Trong suốt",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/o/p/op-lung-iphone-13-pro-ou-trong-suot.png",
+      "category": "Ốp lưng",
+      "price": 75000,
+      "description": "Smember giảm thêm đến 0đ",
+      "id": "2024-05-09T18:58:57.373Z"
+    },
+    {
+      "id": "2024-05-09T18:59:30.307Z",
+      "title": "Ốp lưng iPhone 14 Pro Max UAG Civilian ",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/8/_/8_165_1.png",
+      "category": "Ốp lưng",
+      "price": 360000,
+      "description": "Smember giảm thêm đến 0đ"
+    },
+    {
+      "id": "2024-05-09T18:59:58.389Z",
+      "title": "Ốp lưng iPhone 15 Pro Max Spigen Crystal Slot",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/o/p/op-lung-spi-gen-iphone-15-slot-10.png",
+      "category": "Ốp lưng",
+      "price": 450000,
+      "description": "Smember giảm thêm đến 0đ"
+    },
+    {
+      "id": "2024-05-09T19:00:50.112Z",
+      "title": "Pin sạc dự phòng Xiaomi Redmi 20000mAh sạc nhanh 18W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiao-mi-sac-nhanh.png",
+      "category": "Pin dự phòng",
+      "price": 550000,
+      "description": "Smember giảm thêm đến 0đ"
+    },
+    {
+      "title": "Pin dự phòng Aukey Magnetic 10000mAh 30W PB-MS02",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/p/i/pin-sac-du-phong-aukey-magnetic-10000mah-30w-pb-ms02_1_.png",
+      "category": "Pin dự phòng",
+      "price": 1050000,
+      "description": "Smember giảm thêm đến 0đ",
+      "id": "2024-05-09T19:01:22.636Z"
+    },
+    {
+      "id": "2024-05-09T19:02:53.522Z",
+      "title": "PC Asus Rog Strix G10DK-R5600G003W",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_167.png",
+      "category": "PC",
+      "price": 18990000,
+      "description": "Tặng RAM PC ADATA XPG D50 RGB 16GB 3200MHZ DDR4 "
+    },
+    {
+      "description": "Tặng RAM PC ADATA XPG D50 RGB 16GB 3200MHZ DDR4 hihi",
+      "price": 15000000,
+      "category": "PC",
+      "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_452.png",
+      "title": "PC CPS Gaming G16",
+      "id": "2024-05-09T19:03:52.023Z"
+    }
+  ]
+}
